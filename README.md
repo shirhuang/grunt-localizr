@@ -1,7 +1,4 @@
-grunt-localizr
-==============
-
-Lead Maintainer: [Aria Stewart](https://github.com/aredridel)  
+# grunt-localizr
 
 [![Build Status](https://travis-ci.org/krakenjs/grunt-localizr.svg?branch=master)](https://travis-ci.org/krakenjs/grunt-localizr)
 
@@ -41,5 +38,3 @@ module.exports = function localizr(grunt) {
 ## Using with kraken 1.0 apps
 If you use [generator-kraken](git@github.com:krakenjs/generator-kraken.git) for scaffolding your kraken apps, you will see
 that the generated `Gruntfile.js` will be automatically setting up the i18n task for you.
-
-
